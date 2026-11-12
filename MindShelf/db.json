@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Walking in Quiet Faith",
+      "price": 5500,
+      "category": "Christian Books",
+      "image": "https://picsum.photos/seed/mindshelf-quiet-faith/400/560",
+      "description": "Short, honest reflections on trusting God when life feels slow and unclear. A calm read for early mornings.",
+      "rating": 4.7,
+      "stock": 24
+    },
+    {
+      "id": 2,
+      "name": "The Prayer Journal Companion",
+      "price": 4500,
+      "category": "Christian Books",
+      "image": "https://picsum.photos/seed/mindshelf-prayer-journal/400/560",
+      "description": "A guided journal with weekly prayer prompts and space to record answered prayers. Helps you build a steady prayer habit.",
+      "rating": 4.6,
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Grace for the Weary Season",
+      "price": 6000,
+      "category": "Christian Books",
+      "image": "https://picsum.photos/seed/mindshelf-weary-season/400/560",
+      "description": "Encouraging stories and scripture for anyone carrying a heavy load. Each chapter ends with a simple prayer.",
+      "rating": 4.8,
+      "stock": 18
+    },
+    {
+      "id": 4,
+      "name": "Anchored: Devotions for Hard Days",
+      "price": 5000,
+      "category": "Christian Books",
+      "image": "https://picsum.photos/seed/mindshelf-anchored/400/560",
+      "description": "Thirty short devotions for moments of fear, loss and waiting. Easy to read in five minutes.",
+      "rating": 4.5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Lead From the Second Row",
+      "price": 8500,
+      "category": "Leadership",
+      "image": "https://picsum.photos/seed/mindshelf-second-row/400/560",
+      "description": "You do not need a title to lead. Learn how to influence your team, your church and your workplace from where you stand.",
+      "rating": 4.6,
+      "stock": 15
+    },
+    {
+      "id": 6,
+      "name": "The Listening Leader",
+      "price": 9000,
+      "category": "Leadership",
+      "image": "https://picsum.photos/seed/mindshelf-listening-leader/400/560",
+      "description": "Practical ways to hear your people, ask better questions and make fair decisions. Includes meeting-ready checklists.",
+      "rating": 4.7,
+      "stock": 12
+    },
+    {
+      "id": 7,
+      "name": "Build Teams That Last",
+      "price": 10500,
+      "category": "Leadership",
+      "image": "https://picsum.photos/seed/mindshelf-teams-last/400/560",
+      "description": "A clear guide to choosing, training and keeping good people. Written for small businesses and ministries.",
+      "rating": 4.4,
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "name": "Decisions Under Pressure",
+      "price": 9500,
+      "category": "Leadership",
+      "image": "https://picsum.photos/seed/mindshelf-decisions-pressure/400/560",
+      "description": "A simple framework for staying calm and choosing well when time is short and the stakes are high.",
+      "rating": 4.5,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Naira Smart: A Practical Money Guide",
+      "price": 7500,
+      "category": "Finance",
+      "image": "https://picsum.photos/seed/mindshelf-naira-smart/400/560",
+      "description": "Budgeting, saving and protecting your money in a changing economy. Plain language and real examples from everyday life.",
+      "rating": 4.8,
+      "stock": 40
+    },
+    {
+      "id": 10,
+      "name": "Save First, Spend Wisely",
+      "price": 6500,
+      "category": "Finance",
+      "image": "https://picsum.photos/seed/mindshelf-save-first/400/560",
+      "description": "Build a saving habit with any income. Learn the simple order of paying yourself, your bills and your wants.",
+      "rating": 4.6,
+      "stock": 28
+    },
+    {
+      "id": 11,
+      "name": "Debt-Free Step by Step",
+      "price": 8000,
+      "category": "Finance",
+      "image": "https://picsum.photos/seed/mindshelf-debt-free/400/560",
+      "description": "A realistic plan for clearing loans and avoiding new ones. Includes worksheets you can fill in as you read.",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": 12,
+      "name": "Grow Your First Million",
+      "price": 11000,
+      "category": "Finance",
+      "image": "https://picsum.photos/seed/mindshelf-first-million/400/560",
+      "description": "An introduction to investing, side income and long-term thinking. Written for beginners who want a clear starting point.",
+      "rating": 4.3,
+      "stock": 2
+    },
+    {
+      "id": 13,
+      "name": "Two Hearts, One Plan",
+      "price": 7000,
+      "category": "Marriage",
+      "image": "https://picsum.photos/seed/mindshelf-two-hearts/400/560",
+      "description": "Help couples agree on money, family and goals. Each chapter has questions to discuss together.",
+      "rating": 4.7,
+      "stock": 16
+    },
+    {
+      "id": 14,
+      "name": "Talk Before You Argue",
+      "price": 6500,
+      "category": "Marriage",
+      "image": "https://picsum.photos/seed/mindshelf-talk-argue/400/560",
+      "description": "Learn calm ways to raise problems and solve them as a team. Short chapters with real conversation examples.",
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": 15,
+      "name": "The First Five Years",
+      "price": 8500,
+      "category": "Marriage",
+      "image": "https://picsum.photos/seed/mindshelf-first-five/400/560",
+      "description": "What to expect, and how to grow together, in the early years of marriage. Useful for newlyweds and engaged couples.",
+      "rating": 4.8,
+      "stock": 10
+    },
+    {
+      "id": 16,
+      "name": "Rekindle: Keeping Love Alive",
+      "price": 7500,
+      "category": "Marriage",
+      "image": "https://picsum.photos/seed/mindshelf-rekindle/400/560",
+      "description": "Simple weekly habits that bring back friendship, laughter and trust. Ideas for busy couples and parents.",
+      "rating": 4.5,
+      "stock": 14
+    },
+    {
+      "id": 17,
+      "name": "Small Habits, Big Change",
+      "price": 6000,
+      "category": "Self-Development",
+      "image": "https://picsum.photos/seed/mindshelf-small-habits/400/560",
+      "description": "Start tiny, stay consistent and watch your life shift. A beginner-friendly guide to building habits that last.",
+      "rating": 4.7,
+      "stock": 35
+    },
+    {
+      "id": 18,
+      "name": "Focus in a Noisy World",
+      "price": 7000,
+      "category": "Self-Development",
+      "image": "https://picsum.photos/seed/mindshelf-focus-noisy/400/560",
+      "description": "Take back your attention from your phone and your to-do list. Practical routines for deep, useful work.",
+      "rating": 4.5,
+      "stock": 19
+    },
+    {
+      "id": 19,
+      "name": "Rise Early, Think Clearly",
+      "price": 5500,
+      "category": "Self-Development",
+      "image": "https://picsum.photos/seed/mindshelf-rise-early/400/560",
+      "description": "A gentle plan for better mornings, better sleep and a calmer mind. No extreme routines needed.",
+      "rating": 4.2,
+      "stock": 26
+    },
+    {
+      "id": 20,
+      "name": "Becoming Who You Meant to Be",
+      "price": 9500,
+      "category": "Self-Development",
+      "image": "https://picsum.photos/seed/mindshelf-who-you-meant/400/560",
+      "description": "Discover your strengths, set honest goals and take the next brave step. Includes reflection exercises in every chapter.",
+      "rating": 4.6,
+      "stock": 13
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #f8f0fc;
+  --color-brand-100: #f0dff9;
+  --color-brand-200: #e0bff2;
+  --color-brand-300: #cb93e7;
+  --color-brand-400: #ad58d3;
+  --color-brand-500: #8f20c0;
+  --color-brand-600: #7204aa;
+  --color-brand-700: #5c0388;
+  --color-brand-800: #490369;
+  --color-brand-900: #37024f;
+
+  /* The one exception color: the floating WhatsApp button only. */
+  --color-whatsapp: #25d366;
+  --color-whatsapp-dark: #1ebe5a;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: #ffffff;
+    color: var(--color-gray-900);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    line-height: 1.2;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-brand-500);
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
