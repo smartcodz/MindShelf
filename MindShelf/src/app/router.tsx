@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router";
 import type { RouteObject } from "react-router";
 import { MainLayout } from "../layouts/MainLayout";
+import { HomePage } from "../pages/HomePage";
 import { NotFoundPage } from "../pages/NotFoundPage";
 import { PlaceholderPage } from "../pages/PlaceholderPage";
 
@@ -10,7 +11,7 @@ const routes: RouteObject[] = [
   {
     element: <MainLayout />,
     children: [
-      { index: true, element: <PlaceholderPage title="Home" /> },
+      { index: true, element: <HomePage /> },
       { path: "products", element: <PlaceholderPage title="Books" /> },
       { path: "products/new", element: <PlaceholderPage title="Add a book" /> },
       {
